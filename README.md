@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 Delete the file betty
 9-firstdirdeletion
 file 10 is a script that changes the working directory to the previous one
+file 11 is a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
