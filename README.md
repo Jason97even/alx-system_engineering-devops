@@ -8,3 +8,4 @@ file 6 creates a script that creates a directory named my_first_directory in the
 Move the file betty from /tmp/ to /tmp/my_first_directory
 Delete the file betty
 9-firstdirdeletion
+file 10 is a script that changes the working directory to the previous one
