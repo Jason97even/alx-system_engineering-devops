@@ -12,3 +12,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
 9_is  a script that sets the mode of the file hello
+10_is a script that sets the mode of the file hello the same as olleh’s mode
