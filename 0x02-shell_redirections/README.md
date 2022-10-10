@@ -3,3 +3,4 @@
 3_is a file that displays the content of /etc/passwd and /etc/hosts
 4_is a file that displays the last 10 lines of /etc/passwd
 5_is a file that displays the first 10 lines of /etc/passwd
+6_is a script that displays the third line of the file iacta
