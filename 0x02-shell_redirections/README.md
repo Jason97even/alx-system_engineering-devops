@@ -19,3 +19,4 @@
 19_is a script that replaces all characters A and c from input to Z and e respectively
 20_is a script that removes all letters c and C from input
 21_is a script that reverses its output
+22_is a script that displays all users and their home directories, sorted by users
