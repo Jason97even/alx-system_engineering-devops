@@ -6,3 +6,4 @@
 6_is a script that displays the third line of the file iacta
 7 is a script that creates a file within an aptly named folder
 8_is a script that writes into the file ls_cwd_content the result of the command ls -la
+9_is a script that duplicates the last line of the file iacta
